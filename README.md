@@ -22,6 +22,7 @@
 3. 文本
 
 ####图如下：
+
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/5790560-9852fa80368954ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ###### 注“-”、“1.”与文本间保留一个空格
 
@@ -85,4 +86,4 @@ hello word
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/5790560-1eb7744f36cb3d21.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ###### 注：|前后必须有空格
 						  
-# 本文参考 [Markdown 新手指南](http://www.jianshu.com/p/q81RER)参考 [Markdown 新手指南](http://www.jianshu.com/p/q81RER)# blog
+# 本文参考 [Markdown 新手指南](http://www.jianshu.com/p/q81RER)参考 [Markdown 新手指南](http://www.jianshu.com/p/q81RER)
