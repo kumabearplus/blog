@@ -45,15 +45,18 @@
 	 
 # 5、引用
 				  
-#### 5.1代码引用：一行格式用`，多行代码用```。
+#### 5.1代码引用：一行格式用`，多行代码用```，且```必须在首行和尾行前。
 				  
 #### 格式如下：
 				  
 `hello word`
-```hello word
+
+```
+hello word
 hello word hello word
-hello word```
-				  
+hello word
+```
+
 #### 图如下：
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/5790560-b075775ea23c2781.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
