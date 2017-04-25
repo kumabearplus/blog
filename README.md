@@ -36,11 +36,11 @@
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/5790560-9532a82df3e43d4a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 	 
 # 4、字体样式
-4.1 粗体：**文本**
-格式如下：
+#### 4.1 粗体：**文本**
+#### 格式如下：
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/5790560-d64625a5bd007c46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- 4.2 斜体：*文本*
-格式如下：
+#### 4.2 斜体：*文本*
+#### 格式如下：
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/5790560-c7cfd3c5fb9a5d5a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 	 
 # 5、引用
@@ -50,7 +50,7 @@
 #### 格式如下：
 				  
 `hello word`
-``hello word
+```hello word
 hello word hello word
 hello word```
 				  
