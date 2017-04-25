@@ -20,13 +20,14 @@
 1. 文本
 2. 文本
 3. 文本
+
 ####图如下：
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/5790560-9852fa80368954ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ###### 注“-”、“1.”与文本间保留一个空格
 
 # 3、图片与超链接
 
-    插入图片格式： ![](图片链接地址)
+    插入图片格式： ![名字选填](图片链接地址)
 #### 例如：
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/5790560-510f9d065e5ba956.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
     
